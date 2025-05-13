@@ -6,7 +6,7 @@ This project is a complete **Hospital Database Management System** built using *
 ## 🛠️ How to Run / Setup the Project
 
 1. **Clone the Repository**  
-git clone https://github.com/yourusername/hospital-db.git
+git clone [https://github.com/yourusername/hospital-db.git](https://github.com/Derick-Ochieng-Owino/Database-Assignment_wk8.git)
 
 
 2. **Open MySQL Workbench** or any SQL-compatible client.
@@ -31,4 +31,4 @@ git clone https://github.com/yourusername/hospital-db.git
 
 **Owino Derick Ochieng**  
 Student, JKUAT – BSc. Information Technology  
-GitHub: [github.com/yourusername](https://github.com/yourusername)
+GitHub: [github.com/Derick-Ochieng-Owino](https://github.com/Derick-Ochieng-Owino/Database-Assignment_wk8.git)
