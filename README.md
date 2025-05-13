@@ -6,7 +6,7 @@ This project is a complete **Hospital Database Management System** built using *
 ## 🛠️ How to Run / Setup the Project
 
 1. **Clone the Repository**  
-git clone [https://github.com/yourusername/hospital-db.git](https://github.com/Derick-Ochieng-Owino/Database-Assignment_wk8.git)
+git clone [https://github.com/Derick-Ochieng-Owino/hospital-db.git](https://github.com/Derick-Ochieng-Owino/Database-Assignment_wk8.git)
 
 
 2. **Open MySQL Workbench** or any SQL-compatible client.
@@ -17,9 +17,8 @@ git clone [https://github.com/yourusername/hospital-db.git](https://github.com/D
 
 4. **Optional**: Insert sample data for testing and reports.
 
-## 🗺️ ERD (Entity Relationship Diagram)
-![Hospital ERD](link-to-your-erd-image.png)  
-*Or view it here: [View ERD](https://link-to-online-erd.com)*
+## 🗺️ ERD (Entity Relationship Diagram) 
+*view it here: [View ERD](https://dbdiagram.io/d/Hospital-682382c85b2fc4582f7033f2)*
 
 ## 📂 Repository Contents
 
